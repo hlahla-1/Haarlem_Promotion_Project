@@ -1,0 +1,38 @@
+main #abcsectie1                                                   
+{
+    height: 500px;                                              
+    background-image: url(../pics/ABCmuseum2.jpg);             
+    background-size: cover;                                     
+    background-position: center center;                         
+    background-repeat: no-repeat no-repeat;                     
+}
+main #abcsectie1 section
+{
+    height: 100%;
+}
+main #abcsectie1 div
+{
+    width: 50%;
+}
+main #abcsectie1 h2                                               
+{
+    font-size: 20px;                                            
+    line-height: 120%;                                          
+    font-family: "museo900", "Verdana", "sans-serif";           
+    margin: 0 0 16px 0;                                         
+    color:white;                                                
+    padding-top: 164px;                                         
+    font-weight: normal;                                        
+}
+main #abcsectie1 h4
+{
+    color: black;
+}
+
+main #abcsectie3 img
+{
+    width: 500px;
+    height: 300px;
+    margin: 0px;
+    padding: 10px 15px;
+}

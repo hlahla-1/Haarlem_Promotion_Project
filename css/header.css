@@ -1,0 +1,71 @@
+header #diensten
+{
+    height: 70px;
+    background-color: white;
+    /* background-image: url(../pics/Haarlem.jpg); */
+    border-bottom: 2px solid rgba(188, 193, 197, 0.205);
+}
+
+header #diensten img
+{
+    float: left;
+    margin: 12px 30px 15px 0;
+    width: 200px;
+    height: 115px;
+}
+header h1 
+{
+    float:inherit;
+    font-style: italic;
+    font-family: cursive;
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+header #hoofdnavigatie 
+{
+    /* float: left; */
+    display: inline-block;
+    min-width: 150px;
+    list-style-type: none;
+    padding: 22px 0;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+header #hoofdnavigatie li
+{
+    display: inline-block;
+    padding: 2px 16px 2px 0;
+
+}
+header #hoofdnavigatie li a
+{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: inherit;
+    padding: 5px 20px;
+    border: 1px  solid rgb(238, 8, 8);
+}
+header #hoofdnavigatie li input
+{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: inherit;
+    padding: 7px 15px 5px 15px;
+    border: 1px  solid rgb(238, 8, 8);
+}
+header #hoofdnavigatie li button
+{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: inherit;
+    padding: 7px 15px 5px 15px;
+    border: 1px  solid rgb(238, 8, 8);
+}
+
